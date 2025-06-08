@@ -809,7 +809,7 @@ background-color: rgba(46, 47, 66, 0.4);
     color: #8e8f99;
 }
 
-.checkbox {
+.check-check {
     width: 16px;
     height: 16px;
     border-radius: 2px;
@@ -824,7 +824,7 @@ background-color: rgba(46, 47, 66, 0.4);
     justify-content: center;
 }
 
-.modal-chek:checked+.user-privacy .checkbox {
+.modal-chek:checked+.user-privacy .check-check {
     background-color: #404bbf;
     border: none;
     fill: #f4f4fd;
